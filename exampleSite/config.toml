@@ -78,7 +78,7 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-icon = "ti-instagram"
+icon = "ti-instagram-alt"
 url = ""
 [[params.social]]
 icon = "ti-pinterest"
