@@ -5,18 +5,15 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Exploreee"
 [[menu.main]]
+hasChildren = ""
+name = "Podcast"
+url = ""
+weight = ""
+[[menu.main]]
 hasChildren = true
-name = "Homepage"
+name = "Post"
 url = ""
 weight = 1
-[[menu.main]]
-name = "Homepage 1"
-parent = "Homepage"
-url = "homepage/home-1"
-[[menu.main]]
-name = "Homepage 2"
-parent = "Homepage"
-url = "homepage/home-2"
 [[menu.main]]
 name = "About"
 url = "about"
