@@ -84,11 +84,11 @@ url = ""
 icon = "ti-pinterest"
 url = ""
 [[params.social]]
+icon = "ti-linkedin"
+url = "#"
+[[params.social]]
 icon = "ti-facebook"
 url = ""
 [[params.social]]
 icon = "ti-twitter-alt"
-url = "#"
-[[params.social]]
-icon = "ti-linkedin"
 url = "#"
