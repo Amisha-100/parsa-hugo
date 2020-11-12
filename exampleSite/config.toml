@@ -1,4 +1,4 @@
-baseurl = "https://exploreee.netlify.com"
+baseurl = "https://exploreee.netlify.app"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
