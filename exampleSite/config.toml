@@ -30,7 +30,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 address = ""
 author = "Amisha Shukla"
-author_image = "images/banner-img.png"
+author_image = ""
 bio = ""
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 Exploreee "
@@ -78,7 +78,7 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-icon = "ti-instagram-alt"
+icon = "ti-instagram"
 url = ""
 [[params.social]]
 icon = "ti-pinterest"
