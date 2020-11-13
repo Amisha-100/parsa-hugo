@@ -84,10 +84,10 @@ icon = "ti-instagram"
 url = ""
 [[params.social]]
 icon = "ti-pinterest"
-url = ""
+url = "www.pinterest.com/exploreee1"
 [[params.social]]
 icon = "ti-linkedin"
-url = "#"
+url = ""
 [[params.social]]
 icon = "ti-facebook"
 url = "https://www.facebook.com/Exploreee-110396640882124"
