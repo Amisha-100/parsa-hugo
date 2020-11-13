@@ -31,7 +31,7 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = ""
-author = "Amisha Shukla"
+author = ""
 author_image = ""
 bio = ""
 contact_form_action = "#"
