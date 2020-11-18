@@ -11,12 +11,12 @@ url = ""
 weight = 1
 [[menu.main]]
 hasChildren = ""
-name = "Video"
+name = "Podcast"
 url = ""
 weight = ""
 [[menu.main]]
 hasChildren = ""
-name = "Podcast"
+name = "Video"
 url = ""
 weight = ""
 [[menu.main]]
