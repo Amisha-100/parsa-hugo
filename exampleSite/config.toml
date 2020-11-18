@@ -44,7 +44,7 @@ layout = "1"
 logo = "/images/exploree.png"
 mobile = ""
 preloader = true
-search = false
+search = true
 [params.cookies]
 enable = true
 expire_days = 2
