@@ -4,15 +4,10 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Exploreee"
-[[menu.main]]
-name = "Video"
-parent = "Homepage"
-url = "https://www.youtube.com/channel/UCSPCxqYlC-QNZTIWPHPxCsA/?guided_help_flow=5"
-weight = 2
-[[menu.main]]
-name = "Podcast"
-parent = "Homepage"
-weight = 3
+[menu.main]
+hasChildren = true
+name = "Post"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
