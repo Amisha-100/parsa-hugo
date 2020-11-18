@@ -2,7 +2,6 @@
 categories = ["motivation"]
 date = 2020-11-17T18:30:00Z
 description = ""
-draft = true
 image = "/images/brain.png"
 tags = ["brain", "motivation", "help", "grow"]
 title = "Tapping the untapped you"
