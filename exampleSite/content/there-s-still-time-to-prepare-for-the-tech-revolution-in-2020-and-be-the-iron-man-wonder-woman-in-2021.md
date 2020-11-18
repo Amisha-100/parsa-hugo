@@ -2,7 +2,7 @@
 categories = ["technology"]
 date = 2020-11-17T18:30:00Z
 description = ""
-image = "/images/cwdpxmu069821.jpg"
+image = ""
 tags = ["technology"]
 title = "There’s still time to prepare for the tech revolution in 2020 and be the iron man/wonder woman in 2021!"
 type = "featured"
@@ -22,7 +22,7 @@ Some of the field which everyone can step into and make notable contributions ar
 
 (**NOTE:** This is the path to guide you to get started but ultimately, your learning path has to be yours and learn the way you like it!)
 
-* **Web development:**
+**Web development:**
 
 It is one of the most developed fields in the last decade. There's a whole lot of buzz about web development. The javascript framework rules the web with always something new coming up.
 
@@ -45,7 +45,7 @@ _Backend_ = What your audience/user experience (eg: The data available, getting 
 7. Build some more projects using your framework
 8. Start helping and ask questions on twitter, reddit and various groups.
 
-* **App development:**
+**App development:**
 
 With the growth of mobile users, apps are always the talk of the town. Apps enable us to use the hardware part of the device into the softwares and thus enhance the capabilities of the softwares and make it more interactive.
 
@@ -53,13 +53,13 @@ With the growth of mobile users, apps are always the talk of the town. Apps enab
 
 1. Choose where you want your app on: iOS or Android or both
 2. For
-   1. iOS → Learn Swift
-   2. Android → Learn Kotlin or Java
-   3. Both → Go for flutter or react native or ionic
+   * iOS → Learn Swift
+   * Android → Learn Kotlin or Java
+   * Both → Go for flutter or react native or ionic
 3. Start learning and implementing simultaneously
 4. Start helping and ask questions on twitter, reddit and various groups.
 
-* **Machine Learning:**
+**Machine Learning:**
 
 Machine Learning is the field of possibilities and probabilities. It helps humans to make machines smarter and enhance human efforts.
 
@@ -77,7 +77,7 @@ Machine Learning is going to change the course of software development and make 
 8. Start building your own model.
 9. Learn to deploy your model on cloud services like aws, azure, google cloud, etc.
 
-* **Data Science :**
+**Data Science :**
 
 Data Science is the doami which will help the organizations to learn from the data and cater the users/customers/audience as per that. Data science principles can make the businesses grow and expand exponentially. As it is serving the right thing to the market. It’s about learning demand, supply and coming up with the creative solutions to deal with it.
 
@@ -102,5 +102,7 @@ But the power is always in the hands of the users. Technology is our greatest fr
 As we look towards the brighter side of life, we will always find the growth of the entire world is much faster and the world is truly becoming a better place to live in 2021 and all the upcoming years. Kudos to technology and its creators who are helping to make the unreal real and always let us wonder how surreal everything is! You can also be part of the clan and enjoy this power and become the ironman or the wonder woman around your community or maybe globally just like Elon Musk.
 
 Looking at the past and present scenario; I can surely bet that technology is our friend and hope that in near future it will always share the same healthy relationship with the world. The tech revolution has just started and there’s room for everyone here as it is across the globe. Time is now! Just prepare for it using the internet and just make your mark upon it just like Steve Jobs!
+
+![](/images/cwdpxmu069821.jpg)
 
 Hoping to see all the wonder women and ironmen in 2021 and creating tech for all and supporting the tech revolution. So, gear up in 2020 and be the leader in 2021!
