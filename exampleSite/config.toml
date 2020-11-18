@@ -44,7 +44,7 @@ layout = "1"
 logo = "/images/logooo.png"
 mobile = ""
 preloader = true
-search = true
+search = false
 [params.cookies]
 enable = true
 expire_days = 2
