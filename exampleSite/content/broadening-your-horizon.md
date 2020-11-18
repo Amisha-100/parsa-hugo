@@ -5,7 +5,7 @@ description = ""
 image = "/images/horizon.png"
 tags = ["motivation", "mindset"]
 title = "Broadening your horizon"
-type = "featured"
+type = "post"
 
 +++
 **Horizon** is a place where land and sky meet. It breaks conventional barriers. Similarly, every human being is magical enough to break the limits and create their own vision, thus broadening their horizon and changing the world in their own way. So, let no limits hold you back and jump onto the journey of discovering the limitless you!
