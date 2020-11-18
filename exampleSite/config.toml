@@ -80,6 +80,9 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
+icon = "tl-tumblr"
+url = ""
+[[params.social]]
 icon = "ti-instagram"
 url = "https://www.instagram.com/exploreee_now"
 [[params.social]]
