@@ -2,7 +2,7 @@
 categories = ["technology"]
 date = 2020-11-17T18:30:00Z
 description = "Technology and its future"
-image = "/images/tech.png"
+image = "/images/tech1.png"
 tags = ["technology"]
 title = "There’s still time to prepare for the tech revolution in 2020 and be the iron man/wonder woman in 2021!"
 type = "featured"
