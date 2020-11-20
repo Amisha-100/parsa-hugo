@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2019-11-18T08:46:10+00:00
-description: This is meta description
+description: ''
 image: ''
 menu:
   main:
