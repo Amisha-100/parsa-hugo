@@ -4,16 +4,10 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Exploreee"
-[[menu.main]]
-name = "Video"
-parent = "Homepage"
-url = "https://www.youtube.com/channel/UCSPCxqYlC-QNZTIWPHPxCsA/?guided_help_flow=5"
-weight = 2
-[[menu.main]]
-name = "Podcast"
-parent = "Homepage"
-url = "https://anchor.fm/exploreee"
-weight = 3
+[menu.main]
+hasChildren = true
+name = "Post"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -28,7 +22,7 @@ email = "creators.agile@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
-logo = "/images/lights.png"
+logo = "/images/exploree.png"
 mobile = ""
 preloader = true
 search = true
