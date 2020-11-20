@@ -6,10 +6,6 @@ image = "/images/tech1.png"
 tags = ["technology"]
 title = "There’s still time to prepare in 2020 and be the iron man/wonder woman in 2021!"
 type = "featured"
-[menu.main]
-hasChildren = true
-name = "Post"
-weight = 1
 
 +++
 '**Technology**' is the technical extension of the human mind. And the human mind is the governor of the world. All the advancement in this world is because of the creativity and passion of humans which eventually lead to a technology- driven world. Most of the things surrounding us is a part and parcel of technology; right from fridge to water heater, from fans to ACs, from cars to jets, from internet to AI, from TVs to the miniature gadget which seems to grab everyone's eyeballs viz. Smart phones, from social media to having our own personal assistant, etc are boons of technology.

@@ -5,28 +5,15 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Exploreee"
 [[menu.main]]
-hasChildren = false
-name = "Post"
-url = ""
-weight = 1
-[[menu.main]]
-hasChildren = ""
 name = "Video"
+parent = "Homepage"
 url = "https://www.youtube.com/channel/UCSPCxqYlC-QNZTIWPHPxCsA/?guided_help_flow=5"
-weight = "2"
+weight = 2
 [[menu.main]]
-hasChildren = ""
 name = "Podcast"
+parent = "Homepage"
 url = "https://anchor.fm/exploreee"
-weight = "3"
-[[menu.main]]
-name = "About"
-url = "about"
-weight = "4"
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = "5"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
