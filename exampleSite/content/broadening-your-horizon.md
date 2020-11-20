@@ -10,8 +10,6 @@ type = "post"
 +++
 **Horizon** is a place where land and sky meet. It breaks conventional barriers. Similarly, every human being is magical enough to break the limits and create their own vision, thus broadening their horizon and changing the world in their own way. So, let no limits hold you back and jump onto the journey of discovering the limitless you!
 
-![Horizon where land and sky meet](/images/tech.png "Horizon")
-
 Listen to our podcast on ‘Broadening your horizon’ Now!
 
 [Broadening Your Horizon by Exploreee • A podcast on Anchor](https://anchor.fm/exploreee/episodes/Broadening-Your-Horizon-ehrr5g/a-a2t5ks1 "Podcast")
@@ -24,7 +22,7 @@ Our mind is exceptionally powerful in creating new ideas. We can create anything
 
 ### How to broaden your horizon?
 
-> **_“Redefine the predefined definitions of life”_** 
+> **_“Redefine the predefined definitions of life”_**
 >
 > \- _Poorva Shukla_
 
